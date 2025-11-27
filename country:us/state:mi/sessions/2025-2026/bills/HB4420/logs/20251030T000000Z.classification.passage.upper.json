@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 293 YEAS 31 NAYS 0 EXCUSED 6 NOT VOTING 0",
+    "date": "2025-10-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4420"
+}

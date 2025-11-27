@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "re-returned from Senate with amendment(s) to House amendment(s) with immediate effect",
+    "date": "2025-11-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0596"
+}

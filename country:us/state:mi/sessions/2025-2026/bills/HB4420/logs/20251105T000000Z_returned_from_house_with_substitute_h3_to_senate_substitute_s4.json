@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "RETURNED FROM HOUSE WITH SUBSTITUTE (H-3) TO SENATE SUBSTITUTE (S-4)",
+    "date": "2025-11-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4420"
+}

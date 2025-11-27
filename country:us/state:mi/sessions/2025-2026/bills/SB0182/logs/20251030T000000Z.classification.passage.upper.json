@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 292 YEAS 27 NAYS 4 EXCUSED 5 NOT VOTING 1",
+    "date": "2025-10-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0182"
+}

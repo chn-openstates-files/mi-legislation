@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 11/4/2025",
+    "date": "2025-11-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 0249"
+}

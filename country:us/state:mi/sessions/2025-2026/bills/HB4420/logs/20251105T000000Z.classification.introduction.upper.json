@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "RECEIVED FROM HOUSE",
+    "date": "2025-11-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4420"
+}

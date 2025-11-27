@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "approved by the Governor 11/18/2025 01:34 PM",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5092"
+}
